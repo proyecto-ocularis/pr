@@ -2,192 +2,192 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="https://proyecto-ocularis.github.io/pr/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://proyecto-ocularis.github.io/pr/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/categories/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/categories/"
+                href="https://proyecto-ocularis.github.io/pr/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://proyecto-ocularis.github.io/pr/categories/"
                 />
   </url><url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/hugo/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/post/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/post/"
+                href="https://proyecto-ocularis.github.io/pr/pt/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://proyecto-ocularis.github.io/pr/post/"
                 />
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/series/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/series/"
+                href="https://proyecto-ocularis.github.io/pr/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://proyecto-ocularis.github.io/pr/series/"
                 />
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/categories/syntax/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/"
+                href="https://proyecto-ocularis.github.io/pr/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://proyecto-ocularis.github.io/pr/tags/"
                 />
   </url><url>
-    <loc>https://example.com/series/themes-guide/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/series/themes-guide/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/bundle/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/post/bundle/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/map/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/post/map/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/notices/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/post/notices/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/css/"
+                href="https://proyecto-ocularis.github.io/pr/pt/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/css/"
+                href="https://proyecto-ocularis.github.io/pr/tags/css/"
                 />
   </url><url>
-    <loc>https://example.com/tags/featured/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/featured/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/html/"
+                href="https://proyecto-ocularis.github.io/pr/pt/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/html/"
+                href="https://proyecto-ocularis.github.io/pr/tags/html/"
                 />
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/markdown/"
+                href="https://proyecto-ocularis.github.io/pr/pt/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/markdown/"
+                href="https://proyecto-ocularis.github.io/pr/tags/markdown/"
                 />
   </url><url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/post/markdown-syntax/"
+                href="https://proyecto-ocularis.github.io/pr/pt/post/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/markdown-syntax/"
+                href="https://proyecto-ocularis.github.io/pr/post/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/rich-content/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/placeholder-text/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/math-typesetting/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/emoji-support/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/about/"
+                href="https://proyecto-ocularis.github.io/pr/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://proyecto-ocularis.github.io/pr/about/"
                 />
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/tags/index/</loc>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://proyecto-ocularis.github.io/pr/search/</loc>
   </url>
 </urlset>
